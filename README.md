@@ -4,7 +4,7 @@
 🚀 Passionate about full-stack development and problem-solving  
 🌱 Currently learning Backend (Node.js + MongoDB)  
 
-📫 Reach me: your-email@gmail.com  
+📫 Reach me:usamamahboob27@gmail.com 
 ⚡ Fun fact: I love building apps that people actually use!  
 
 ---
