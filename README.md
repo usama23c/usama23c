@@ -1,76 +1,54 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Usama</h1>
-<h3 align="center">💻 IT Graduate | Flutter & React Developer | Aspiring Full-Stack Engineer</h3>
-
-<p align="center">
-  🚀 Passionate about building real-world apps with modern tech.<br>
-  🌱 Currently learning <b>Backend (Node.js + MongoDB)</b>.<br>
-  📫 Reach me at: <b>usamamahboob27@gmail.com</b><br>
-  ⚡ Fun fact: I love building apps that people actually use!
-</p>
+<h3 align="center">💻 IT Graduate | Flutter & React Developer | Future Full-Stack Engineer</h3>
 
 ---
 
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 👨‍💻 About Me
+I’m an enthusiastic **software developer** who loves to transform ideas into **working applications**.  
+- 🚀 Skilled in **Flutter, Dart, React, and JavaScript**  
+- 🌱 Currently learning **Backend Development (Node.js + MongoDB)**  
+- 💡 Passionate about building apps that solve **real-world problems**  
+- ⚡ Fun fact: I enjoy learning new tools and frameworks to stay ahead in tech  
+
+📫 **Reach me at:** `usamamahboob27@gmail.com`
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/usama23c">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
   </a>
   <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚒️ Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+## ⚒️ Technical Skills
+- **Mobile Development:** Flutter, Dart, React Native  
+- **Frontend Development:** React.js, JavaScript, HTML, CSS  
+- **Backend Development:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase  
+- **Other Tools:** Git, GitHub, REST APIs, C++  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama23c&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usama23c&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usama23c=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## 🚀 Featured Projects
+- 📱 **Flutter E-Commerce App** – Complete store app with modern UI and Firebase backend  
+- 🚕 **Taxi Booking App UI** – Flutter-based UI for ride-hailing apps  
+- 🤖 **ChatGPT Bot in C++** – Console chatbot showcasing AI interaction basics  
+- 🛒 **MERN Stack Store App** – Full-stack application with authentication and CRUD operations  
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usama23c&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?usama23c=yourusername&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-## ✨ Featured Projects
-- 📱 **Flutter E-Commerce App** – Modern UI + Firebase backend  
-- 🚕 **Taxi Booking App UI** – Smooth, scalable UI with Flutter  
-- 🤖 **ChatGPT Bot in C++** – Console-based chatbot project  
-- 🛒 **Full-Stack Store App** – MERN stack project with authentication  
+## 🎯 My Goal
+To become a **Full-Stack Developer** and work on impactful projects that help businesses and communities grow. I aim to combine **modern mobile & web technologies** with strong backend systems to deliver scalable solutions.  
 
 ---
 
