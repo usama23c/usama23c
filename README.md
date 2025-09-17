@@ -28,7 +28,7 @@
 ### ⚡ Quick Facts
 - 💬 Ask me about **Flutter** - I love to help!
 - 📫 Reach me at: **usamamahboob27@gmail.com**
-- 😄 Fun fact: **I'm coming to teen** - young and passionate!
+- 😄 Fun fact: **I'm young, passionate, and always learning!**
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@
 
 <div align="center">
   
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=usama23c&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="USama's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usama23c&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=usama23c&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Usama's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usama23c&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=usama23c&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -75,12 +75,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usama23c)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamamahboob27@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.usamachudhary1?igsh=MXNwbXNwZ3MxaGV5OQ==/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/share/19mumJmamN/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usama23c)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamamahboob27@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.usamachudhary1/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/usama23c)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama23c/)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/usama23c)  
+
 </div>
 
 ---
@@ -95,4 +96,4 @@
 From: 20 October 2022 - To: 27 October 2024
 
 Flutter/Dart   █████████████████████████   90.00%
-C++            ██████                     10.00% correct this for my github usama23c
+C++            ██████                     10.00%
