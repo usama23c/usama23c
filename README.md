@@ -17,10 +17,6 @@
 
 ## 🎯 About Me  
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 💻 **IT Graduate** | 🚀 **Flutter & React Developer** | 🌐 **Full-Stack Learner**  
 
 - 👀 Love: Mobile apps, MERN stack & problem-solving  
@@ -30,21 +26,26 @@
 - 🎨 Focused on: **Modern UI + Real-world apps**  
 - ⚡ Fun Fact: I love building apps people actually use!  
 
-    </td>
-    <td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🔭 Current Focus  
 - 🚀 Building **cross-platform apps** with Flutter & React  
 - 🌱 Diving deep into **Backend (Node.js + MongoDB)**  
 - 💡 Exploring **UI/UX principles** for smooth user experiences  
+- ☁️ Future Goals: **Cloud, AI Integration & Full-Stack SaaS apps**  
+
+---
+
+## 🌍 Live Projects  
+
+Here are some of my projects you can explore **LIVE**:  
+
+- 🔗 [Bill Splitter App](https://lkjbillsplitter3.web.app/)  
+- 🐮 [Dairy Management App](https://dairyapp-app.web.app/#MainPage)  
+- 🛠️ [Projects Showcase](https://projectsshowcase.vercel.app/)  
+- 👤 [Portfolio Website](https://profileusama.vercel.app/)  
+
+> ⚡ More live apps coming soon…  
 
 ---
 
@@ -53,32 +54,16 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></td>
   </tr>
   <tr>
     <td colspan="4" align="center">
@@ -141,43 +126,27 @@
 
 ---
 
+## 🏆 Certifications / Achievements  
+- 🎓 IT Graduate (IIUI)  
+- 🏅 Internship: Full-Stack Development (MERN + Flutter)  
+- 📜 Courses: JavaScript ES6, React, Flutter Advanced  
+- 🚀 Built & deployed multiple **live apps** (Web + Mobile)  
+
+---
+
 ## 🤝 Connect With Me  
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/usama23c">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:usamamahboob27@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/yourusername">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-    </td>
+    <td align="center"><a href="https://github.com/usama23c"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+    <td align="center"><a href="mailto:usamamahboob27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/yourusername">
-        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://fb.com/yourusername">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-      </a>
-    </td>
+    <td align="center"><a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td align="center"><a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a></td>
+    <td align="center"><a href="https://fb.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a></td>
   </tr>
 </table>
 
@@ -186,5 +155,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;Shoot+me+a+message+on+LinkedIn!;Let's+build+something+amazing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;Check+out+my+Live+Apps!;Let's+build+something+amazing+🚀">
 </div>
