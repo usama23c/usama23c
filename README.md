@@ -40,8 +40,8 @@
 
 Here are some of my projects you can explore **LIVE**:  
 
-- 🔗 [Bill Splitter App](https://lkjbillsplitter3.web.app/)  
-- 🐮 [Dairy Management App](https://dairyapp-app.web.app/#MainPage)  
+- 🔗 [Fitness App App](https://fitnesssd-12wa.web.app/)  
+- 🐮 [Ecommrec App](https://ecomerce-apps.web.app/)  
 - 🛠️ [Projects Showcase](https://projectsshowcase.vercel.app/)  
 - 👤 [Portfolio Website](https://profileusama.vercel.app/)  
 
